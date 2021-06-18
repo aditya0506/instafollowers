@@ -1,4 +1,4 @@
-# Inshackle v2.3
+# Inshackle v2.4
 # Instagram bot,auto follower
 ## Recoded: github.com/cyberkallan/inshackle-bot
 ## IG: https://instagram.com/imarjunarz
