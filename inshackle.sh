@@ -1,4 +1,4 @@
-C#!/bin/bash
+#!/bin/bash
 # Inshackle v1.1
 # recoded by: ADR05
 # github.com/cyberkallan/inshackle-bot
